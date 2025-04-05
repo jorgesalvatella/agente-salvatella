@@ -1,0 +1,18 @@
+# Entornos virtuales
+venv/
+venv_streamlit/
+
+# Archivos temporales y de Python
+__pycache__/
+*.py[cod]
+*.log
+
+# Configs locales de Streamlit
+.streamlit/
+
+# Por si usas VSCode
+.vscode/
+
+# Datos importantes que NO deben ignorarse
+!contenido_extraido/texto_slides_ocr.json
+!contenido_extraido/slides/*.png

@@ -1,0 +1,12 @@
+streamlit
+pillow
+PyMuPDF
+pdf2image
+pytesseract
+rapidfuzz
+langchain
+langchain-community
+langchain-ollama
+llama-index
+faiss-cpu
+unstructured
