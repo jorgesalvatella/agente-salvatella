@@ -69,7 +69,7 @@ st.markdown(
 st.markdown(
     """
     <div class="logo-container">
-        <img src="https://jorgesalvatella.com/logo.png" alt="Logo">
+        <img src="https://imagenes.jorgesalvatella.com/logo.png" alt="Logo">
         <h1 style="color: #EEE; font-size: 32px;">Jorge Salvatella Digital Services – Asistente Educativo</h1>
     </div>
     """,
